@@ -23,7 +23,6 @@ The implementation includes:
 
 💥 User-friendly GUI platform.
 
-[UML Diagram of the project](https://drive.google.com/file/d/1JezIk3r2uw9hfBMqRUZ3FaLppEjuW2Y2/view?usp=sharing)
 
 ## Screenshots
 
