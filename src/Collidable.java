@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 
 /**
  * this interface implemented by Collidable object.
