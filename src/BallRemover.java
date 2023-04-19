@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 
 /**
  * this class is a HitListener. Charge of removing balls, and updating an available-balls counter.
