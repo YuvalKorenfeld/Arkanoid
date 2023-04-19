@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 
 /**
  * this class is a Score Tracking Listener. he has Counter object
