@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 
 /**
  * this class is a Point object. Point is x,y coordinates.
