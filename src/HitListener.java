@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 /**
  * observer listener.
  */
