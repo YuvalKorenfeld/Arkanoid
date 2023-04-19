@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 
 /**
  * Counter is a simple class that is used for counting things.
