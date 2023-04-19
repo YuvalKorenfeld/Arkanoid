@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 
 /**
  * this class is a Collision Info object. Have the collision Point ant the collidable object.
