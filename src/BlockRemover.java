@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 
 /**
  * Block Remover is in charge of removing blocks from the game,
