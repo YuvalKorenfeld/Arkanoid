@@ -1,4 +1,3 @@
-// 207801887 Yuval Korenfeld
 
 /**
  * creates the Punctuality to add and remove Hit Listeners.
